@@ -1,0 +1,8 @@
+main.c:59:1:__io_putchar	16	static
+main.c:96:5:main	24	static
+main.c:180:6:SystemClock_Config	96	static
+main.c:225:13:MX_ADC1_Init	24	static
+main.c:270:13:MX_USART1_UART_Init	8	static
+main.c:303:13:MX_GPIO_Init	32	static
+main.c:329:6:HAL_UART_RxCpltCallback	16	static
+main.c:370:6:Error_Handler	4	static
