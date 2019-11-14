@@ -1,0 +1,4 @@
+Sonic.c:5:6:Sonic_Get_Data	8	static
+Sonic.c:13:10:Sonic_Conversion_Data	24	static
+Sonic.c:19:10:Sonic_GetLVBO	48	dynamic
+Sonic.c:31:7:WaterVolume	24	static

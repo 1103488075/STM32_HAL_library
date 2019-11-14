@@ -1,0 +1,10 @@
+main.c:18:5:main	8	static
+main.c:41:4:Scan_key	8	static
+main.c:56:6:OLED_display_status	8	static
+main.c:80:6:HAL_SYSTICK_Callback	8	static
+main.c:102:6:warning_continue_time	4	static
+main.c:112:6:System_Config	8	static
+main.c:123:6:MX_TIM1_Init	32	static
+main.c:147:6:SystemClock_Config	96	static
+main.c:181:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:191:6:Systick_Config	8	static

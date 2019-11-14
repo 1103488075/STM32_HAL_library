@@ -1,0 +1,11 @@
+RGB.c:4:6:RGB_choose_blue	8	static
+RGB.c:9:6:RGB_choose_red	8	static
+RGB.c:14:6:RGB_choose_green	8	static
+RGB.c:19:6:RGB_choose_white	8	static
+RGB.c:24:6:RGB_choose_yellow	8	static
+RGB.c:29:6:RGB_choose_blue_green	8	static
+RGB.c:34:6:RGB_choose_violet	8	static
+RGB.c:39:6:RGB_choose_close	8	static
+RGB.c:43:6:RGB_choose_colour	16	static
+RGB.c:57:6:RGB_choose_move_colour	8	static
+RGB.c:69:6:RGB_choose_warning	8	static

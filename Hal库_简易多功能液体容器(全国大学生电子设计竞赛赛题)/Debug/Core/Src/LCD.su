@@ -1,0 +1,8 @@
+LCD.c:7:6:LCD_GPIO_Config	32	static
+LCD.c:21:6:LCD_COM	16	static
+LCD.c:36:6:LCD_DAT	16	static
+LCD.c:50:6:LCD_Config	8	static
+LCD.c:70:6:LCD_Delay	16	static
+LCD.c:75:6:LCD_Clean	8	static
+LCD.c:82:6:LCD_ShowAll	16	static
+LCD.c:113:6:LCD_Show	16	static

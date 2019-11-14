@@ -1,0 +1,7 @@
+main.c:16:5:main	8	static
+main.c:51:6:SYSTEM_INIT	64	static
+main.c:69:6:Basis	4	static
+main.c:74:6:Senior	4	static
+main.c:82:6:System_Config	8	static
+main.c:92:6:SystemClock_Config	72	static
+main.c:113:6:Delay	24	static

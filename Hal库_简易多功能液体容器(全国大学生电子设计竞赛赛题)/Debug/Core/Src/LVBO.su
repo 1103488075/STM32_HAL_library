@@ -1,0 +1,6 @@
+LVBO.c:3:6:PAIXU_float	24	static
+LVBO.c:19:6:PAIXU_uint16_t	24	static
+LVBO.c:35:6:PAIXU_uint32_t	24	static
+LVBO.c:51:7:LVBO_float	40	static
+LVBO.c:62:10:LVBO_uint16_t	32	static
+LVBO.c:75:10:LVBO_uint32_t	40	static

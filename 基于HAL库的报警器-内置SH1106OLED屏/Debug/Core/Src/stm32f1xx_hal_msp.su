@@ -1,0 +1,4 @@
+stm32f1xx_hal_msp.c:4:6:HAL_MspInit	24	static
+stm32f1xx_hal_msp.c:14:6:Systick_Interrupt_Config	8	static
+stm32f1xx_hal_msp.c:35:6:HAL_TIM_Base_MspInit	24	static
+stm32f1xx_hal_msp.c:60:6:HAL_TIM_Base_MspDeInit	16	static

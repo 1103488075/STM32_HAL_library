@@ -1,0 +1,5 @@
+uart.c:7:6:UART_Config	80	static
+uart.c:27:6:UART_GPIO_Config	32	static
+uart.c:42:6:MX_NVIC_Init	8	static
+uart.c:49:6:UART_Writr	16	static
+uart.c:56:6:USART1_IRQ	4	static
